@@ -1,0 +1,2 @@
+- 🌱 Java, PHP, HTML, CSS
+- 📫 Kontakt: nwse#5160 / nwse@nwse.pl
