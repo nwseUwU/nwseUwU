@@ -1,2 +1,2 @@
 - 🌱 Java
-- 📫 Kontakt: nwse#5160 / nwse@nwse.pl
+- 📫 Kontakt: nwse#5160 / ts.nwse.pl
